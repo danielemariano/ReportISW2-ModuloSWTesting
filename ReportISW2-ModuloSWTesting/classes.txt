@@ -1,0 +1,8 @@
+mavenTravisJcsParametrizedTests/src/test/java/it/uniroma2/dicii/isw2/jcs/paramTests/ParametricJCSLightLoadUnitTest.java
+mavenTravisJcsParametrizedTests/src/test/java/it/uniroma2/dicii/isw2/jcs/paramTests/ParametricJCSRemovalSimpleConcurrentTest.java
+
+bookkeeper-test/bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/storage/ldb/ReadCache.java
+bookkeeper-test/bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/storage/ldb/WriteCache.java
+
+openJPA-test/openjpa-jdbc/src/main/java/org/apache/openjpa/jdbc/identifier/QualifiedDBIdentifier.java
+openJPA-test/openjpa-lib/src/main/java/org/apache/openjpa/lib/util/ClassUtil.java
